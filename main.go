@@ -12,4 +12,7 @@ func main() {
 	s2 := puppy.BigBark()
 	fmt.Println(s1)
 	fmt.Println(s2)
+	RandomNumber(10)
+	//randomNumber(10)
+
 }
